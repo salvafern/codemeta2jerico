@@ -1,0 +1,45 @@
+{
+  "_class": "Software",
+  "alias": "https://github.com/ropensci/worrms",
+  "abstract": "Client for World Register of Marine Species (<https://www.marinespecies.org/>). Includes functions for each of the API methods, including searching for names by name, date and common names, searching using external identifiers, fetching synonyms, as well as fetching taxonomic children and taxonomic classification.",
+  "author": [
+    {
+      "_class": "Person",
+      "name": "Scott Chamberlain"
+    },
+    {
+      "_class": "Person",
+      "name": "Bart Vanhoorne."
+    }
+  ],
+  "contributor": null,
+  "description": "Client for World Register of Marine Species (<https://www.marinespecies.org/>). Includes functions for each of the API methods, including searching for names by name, date and common names, searching using external identifiers, fetching synonyms, as well as fetching taxonomic children and taxonomic classification.",
+  "distribution": {
+    "_class": "Distribution",
+    "accessURL": "https://github.com/ropensci/worrms"
+  },
+  "downloadURL": "https://github.com/ropensci/worrms/archive/refs/heads/master.zip",
+  "keywords": [
+    ["biology", "science", "marine", "API", "web", "api-client", "worms", "species", "taxonomy", "marine-species", "api-wrapper", "rstats", "r", "r-package", "taxize", "biological-data", "fish", "marine-biology"]
+  ],
+  "language": [
+    "English"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "modified": "0.4.3",
+  "name": "worrms: World Register of Marine Species (WoRMS) Client",
+  "organization": {
+    "_class": "Organization",
+    "alias": "https://cran.r-project.org"
+  },
+  "owner": [
+    "Organization"
+  ],
+  "publisher": [
+    "Organization"
+  ],
+  "published": "0.4.3",
+  "programming_language": "R",
+  "url": "https://github.com/ropensci/worrms",
+  "version": "0.4.3"
+}

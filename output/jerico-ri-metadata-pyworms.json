@@ -1,0 +1,35 @@
+{
+  "_class": "Software",
+  "alias": null,
+  "abstract": "Python client for the WoRMS REST service",
+  "author": [
+    {
+      "_class": "Person",
+      "name": "Pieter Provoost"
+    }
+  ],
+  "contributor": null,
+  "description": "Python client for the WoRMS REST service",
+  "distribution": {
+    "_class": "Distribution",
+    "accessURL": null
+  },
+  "downloadURL": null,
+  "keywords": null,
+  "language": [
+    "English"
+  ],
+  "license": "http://spdx.org/licenses/BSD-3-Clause",
+  "modified": "0.4.0",
+  "name": "pyworms",
+  "organization": {
+    "_class": "Organization",
+    "alias": null
+  },
+  "owner": null,
+  "publisher": null,
+  "published": "0.4.0",
+  "programming_language": null,
+  "url": null,
+  "version": "0.4.0"
+}

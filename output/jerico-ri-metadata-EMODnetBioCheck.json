@@ -1,0 +1,37 @@
+{
+  "_class": "Software",
+  "alias": "https://github.com/EMODnet/EMODnetBiocheck",
+  "abstract": "This tool allows you to assess to what extend a dataset published on an IPT or a DwC-A file meets the EMODnet Biology Data Quality Criteria.",
+  "author": [
+    {
+      "_class": "Person",
+      "name": "Daphnis De Pooter"
+    }
+  ],
+  "contributor": null,
+  "description": "This tool allows you to assess to what extend a dataset published on an IPT or a DwC-A file meets the EMODnet Biology Data Quality Criteria.",
+  "distribution": {
+    "_class": "Distribution",
+    "accessURL": "https://github.com/EMODnet/EMODnetBiocheck"
+  },
+  "downloadURL": "https://github.com/EMODnet/EMODnetBiocheck/archive/refs/heads/master.zip",
+  "keywords": [
+    ["quality-control", "eventid", "taxa", "dataset", "marine-biology", "mandatory-fields", "occurrenceid", "lifewatch", "lifewatchvliz"]
+  ],
+  "language": [
+    "English"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "modified": "0.0.0.9000",
+  "name": "EMODnetBiocheck: LifeWatch & EMODnet Biology QC Tool",
+  "organization": {
+    "_class": "Organization",
+    "alias": null
+  },
+  "owner": null,
+  "publisher": null,
+  "published": "0.0.0.9000",
+  "programming_language": "R",
+  "url": "https://github.com/EMODnet/EMODnetBiocheck",
+  "version": "0.0.0.9000"
+}

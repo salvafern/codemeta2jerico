@@ -1,0 +1,51 @@
+{
+  "_class": "Software",
+  "alias": "https://github.com/ropensci/mregions",
+  "abstract": "Tools to get marine regions data from <https://www.marineregions.org/>. Includes tools to get region metadata, as well as data in 'GeoJSON' format, as well as Shape files. Use cases include using data downstream to visualize 'geospatial' data by marine region, mapping variation among different regions, and more.",
+  "author": [
+    {
+      "_class": "Person",
+      "name": "Scott Chamberlain"
+    },
+    {
+      "_class": "Person",
+      "name": "Lennert Schepers"
+    },
+    {
+      "_class": "Person",
+      "name": "Salvador Fernandez"
+    }
+  ],
+  "contributor": [
+    ["Person", "Person", "Person"]
+  ],
+  "description": "Tools to get marine regions data from <https://www.marineregions.org/>. Includes tools to get region metadata, as well as data in 'GeoJSON' format, as well as Shape files. Use cases include using data downstream to visualize 'geospatial' data by marine region, mapping variation among different regions, and more.",
+  "distribution": {
+    "_class": "Distribution",
+    "accessURL": "https://github.com/ropensci/mregions"
+  },
+  "downloadURL": "https://github.com/ropensci/mregions/archive/refs/heads/master.zip",
+  "keywords": [
+    ["rstats", "r", "marine", "spatial", "r-package", "peer-reviewed", "jerico-relevant"]
+  ],
+  "language": [
+    "English"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "modified": "0.1.8",
+  "name": "mregions: Marine Regions Data from 'Marineregions.org'",
+  "organization": {
+    "_class": "Organization",
+    "alias": "https://cran.r-project.org"
+  },
+  "owner": [
+    "Organization"
+  ],
+  "publisher": [
+    "Organization"
+  ],
+  "published": "0.1.8",
+  "programming_language": "R",
+  "url": "https://github.com/ropensci/mregions",
+  "version": "0.1.8"
+}
