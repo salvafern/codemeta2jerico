@@ -32,20 +32,16 @@
     "English"
   ],
   "license": "https://spdx.org/licenses/MIT",
-  "modified": "0.1.8",
+  "modified": "0.1.9",
   "name": "mregions: Marine Regions Data from 'Marineregions.org'",
   "organization": {
     "_class": "Organization",
-    "alias": "https://cran.r-project.org"
+    "alias": null
   },
-  "owner": [
-    "Organization"
-  ],
-  "publisher": [
-    "Organization"
-  ],
-  "published": "0.1.8",
+  "owner": null,
+  "publisher": null,
+  "published": "0.1.9",
   "programming_language": "R",
   "url": "https://github.com/ropensci/mregions",
-  "version": "0.1.8"
+  "version": "0.1.9"
 }

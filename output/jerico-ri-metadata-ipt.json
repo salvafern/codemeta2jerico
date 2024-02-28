@@ -1,0 +1,43 @@
+{
+  "_class": "Software",
+  "alias": null,
+  "abstract": "The GBIF Integrated Publishing Toolkit",
+  "author": [
+    {
+      "_class": "Person",
+      "name": "Matt Blissett"
+    },
+    {
+      "_class": "Person",
+      "name": "Mikhail Podolskiy"
+    },
+    {
+      "_class": "Person",
+      "name": "Tim Robertson"
+    }
+  ],
+  "contributor": null,
+  "description": "The GBIF Integrated Publishing Toolkit",
+  "distribution": {
+    "_class": "Distribution",
+    "accessURL": null
+  },
+  "downloadURL": null,
+  "keywords": null,
+  "language": [
+    "English"
+  ],
+  "license": null,
+  "modified": "3.0.2-SNAPSHOT",
+  "name": "IPT",
+  "organization": {
+    "_class": "Organization",
+    "alias": null
+  },
+  "owner": null,
+  "publisher": null,
+  "published": "3.0.2-SNAPSHOT",
+  "programming_language": "Java",
+  "url": null,
+  "version": "3.0.2-SNAPSHOT"
+}
